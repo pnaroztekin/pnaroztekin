@@ -1,9 +1,9 @@
 <div align="center">
 
   <img src="profile.jpg" width="100"/>
-  <h1>Selam, Ben Pınar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  <h1>Hi, I'm Pınar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
-  <h3>🚀 Full Stack - Mobil Developer olmaya çalışıyorum. | Teknoloji Meraklısı | Öğrenmeyi Sever</h3>
+  <h3>🚀 I'm trying to become a Full Stack - Mobile Developer. | Tech Enthusiast | Loves to Learn</h3>
 
   <p>
    <a href="https://www.linkedin.com/in/pınar-öztekin-96aa201bb" target="_blank">
@@ -18,16 +18,14 @@
 
 ---
 
-### 👨‍💻 Hakkımda
+👨‍💻 About Me
+🔭 I'm currently working on my own startup.
+🌱 I'm learning/developing Python, JS, and React.
+💬 You can ask me questions about Frontend architecture and UI/UX.
+📫 To contact me: pinarroztekinn@gmail.com
 
-- 🔭 Şu anda kendi girişimim üzerinde çalışıyorum.
-- 🌱 **Python, JS ve React** öğreniyorum/geliştiriyorum.
-- 💬 Bana **Frontend mimarisi ve UI/UX** hakkında soru sorabilirsin.
-- 📫 Bana ulaşmak için: **pinarroztekinn@gmail.com**
 
----
-
-### 🛠️ Kullandığım Teknolojiler (Tech Stack)
+### 🛠️ Technologies I Use (Tech Stack)
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -38,7 +36,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </div>
 
-### 📊 GitHub İstatistiklerim
+### 📊 My GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnaroztekin&theme=tokyonight" alt="Profil Özeti" />
