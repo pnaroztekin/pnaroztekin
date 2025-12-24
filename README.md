@@ -41,15 +41,14 @@
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pnaroztekin&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnaroztekin&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnaroztekin&theme=tokyonight" alt="Profil Özeti" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pnaroztekin&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnaroztekin&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
-
 <!--
 **pnaroztekin/pnaroztekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
