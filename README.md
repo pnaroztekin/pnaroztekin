@@ -38,14 +38,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </div>
 
----
 ### 📊 GitHub İstatistiklerim
 
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=pnaroztekin&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pnaroztekin&show_icons=true&theme=tokyonight&hide_border=true&v=2" height="180" alt="İstatistikler" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnaroztekin&layout=compact&theme=tokyonight&hide_border=true&v=2" height="180" alt="Diller" />
+</div>
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=pnaroztekin&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnaroztekin&theme=tokyonight&hide_border=true" alt="Streak" />
+</div>
 
-![Kodlama Serisi](https://github-readme-streak-stats.herokuapp.com/?user=pnaroztekin&theme=tokyonight&hide_border=true)
+
 <!--
 **pnaroztekin/pnaroztekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
