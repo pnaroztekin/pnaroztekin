@@ -43,20 +43,14 @@
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pinarroztekinn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Pınar'ın İstatistikleri" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN_GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinarroztekinn&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Pınar'ın Dilleri" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SENIN_GITHUB_KULLANICI_ADIN&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinarroztekinn&theme=tokyonight&hide_border=true" alt="Pınar'ın Streak'i" />
 </div>
-
-<div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_KULLANICI_ADIN&label=Profil%20Ziyaretçileri&color=0e75b6&style=flat" alt="visitors" />
-
-
 <!--
 **pnaroztekin/pnaroztekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
