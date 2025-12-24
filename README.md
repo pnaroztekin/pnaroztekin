@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.recraft.ai/community?imageId=10177ac5-3a3f-403f-94df-9bb7f124472d)" width="100"/>
   <h1>Selam, Ben Pınar! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   
   <h3>🚀 Full Stack - Mobil Developer olmaya çalışıyorum. | Teknoloji Meraklısı | Öğrenmeyi Sever</h3>
