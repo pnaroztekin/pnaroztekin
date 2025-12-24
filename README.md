@@ -6,7 +6,7 @@
   <h3>🚀 Full Stack - Mobil Developer olmaya çalışıyorum. | Teknoloji Meraklısı | Öğrenmeyi Sever</h3>
 
   <p>
-    <a href="[www.linkedin.com/in/pınar-öztekin-96aa201bb](https://www.linkedin.com/in/p%C4%B1nar-%C3%B6ztekin-96aa201bb/)" target="_blank">
+   <a href="https://www.linkedin.com/in/pınar-öztekin-96aa201bb" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:pinarroztekinn@gmail.com" target="_blank">
@@ -55,7 +55,7 @@
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=SENIN_GITHUB_KULLANICI_ADIN&label=Profil%20Ziyaretçileri&color=0e75b6&style=flat" alt="visitors" />
-</div>## Hi there 👋
+
 
 <!--
 **pnaroztekin/pnaroztekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
