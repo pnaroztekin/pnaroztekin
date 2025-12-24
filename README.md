@@ -39,17 +39,16 @@
   </div>
 
 ---
-
 ### 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pnaroztekin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Pınar'ın İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pnaroztekin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="İstatistikler" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnaroztekin&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Pınar'ın Dilleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnaroztekin&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Diller" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnaroztekin&theme=tokyonight&hide_border=true" alt="Pınar'ın Streak'i" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnaroztekin&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 <!--
 **pnaroztekin/pnaroztekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
