@@ -15,18 +15,18 @@
   </p>
 
 </div>
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **my own startup project**.
+- 🌱 I’m currently learning/improving my skills in **React, Node.js, and Python**.
+- 💬 Ask me about **Frontend architecture and UI/UX**.
+- 📫 How to reach me: **pinarroztekinn@gmail.com**
 
 ---
 
-👨‍💻 About Me
-🔭 I'm currently working on my own startup.
-🌱 I'm learning/developing Python, JS, and React.
-💬 You can ask me questions about Frontend architecture and UI/UX.
-📫 To contact me: pinarroztekinn@gmail.com
----
-
-### 🛠️ Technologies I Use (Tech Stack)
-
+### 🛠️ Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
