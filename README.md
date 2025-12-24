@@ -23,7 +23,7 @@
 🌱 I'm learning/developing Python, JS, and React.
 💬 You can ask me questions about Frontend architecture and UI/UX.
 📫 To contact me: pinarroztekinn@gmail.com
-
+---
 
 ### 🛠️ Technologies I Use (Tech Stack)
 
